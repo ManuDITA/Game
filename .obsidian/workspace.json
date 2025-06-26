@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASD.md",
+                "file": "Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASD"
+              "title": "Idea"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASD.md",
+                "file": "Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ASD"
+              "title": "Outgoing links from Idea"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASD.md",
+                "file": "Idea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ASD"
+              "title": "Outline of Idea"
             }
           },
           {
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d61e0f477c1b3a1",
+  "active": "86f4f21d2a34efc2",
   "lastOpenFiles": [
     "Images.md",
-    "ASD.md",
+    "Idea.md",
     "Images/Pasted image 20250626225926.png",
     "Images",
     "Welcome.md"

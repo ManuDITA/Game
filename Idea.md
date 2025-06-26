@@ -1,6 +1,3 @@
-Idea
-
-  
 
 Puzzle based game. Each inferno level has a grand puzzle. Walk around, interact and talk, figure pieces of the puzzle out and finish it.
 
