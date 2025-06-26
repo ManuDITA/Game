@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ASD.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from ASD"
             }
           },
           {
@@ -140,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ASD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ASD"
             }
           },
           {
@@ -176,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86f4f21d2a34efc2",
+  "active": "387fa7bb643577c7",
   "lastOpenFiles": [
     "ASD.md",
     "Welcome.md"
