@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea.md",
+                "file": "Story/Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idea"
+              "title": "Story"
             }
           }
         ]
@@ -178,14 +178,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fc67e6eb61f9e1f",
+  "active": "821e33ec1ec2da4b",
   "lastOpenFiles": [
+    "Levels/Level 1/L1 - Story.md",
+    "Levels/Level 1/L1 - Puzzle.md",
+    "Levels/Level 1",
+    "Story/Story.md",
+    "Idea.md",
     "Untitled",
     "Story",
     "Levels",
     "Design Doc Overview.md",
     "Images.md",
-    "Idea.md",
     "Images/Pasted image 20250626225926.png",
     "Images",
     "Welcome.md"
