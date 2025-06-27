@@ -4,11 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "927c8e10d4c982af",
+        "id": "d32d400ffd9ea0e5",
         "type": "tabs",
         "children": [
           {
-            "id": "487362440dbcdbb2",
+            "id": "86f4f21d2a34efc2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "35fd88937e86573a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Images.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Images"
+            }
+          },
+          {
+            "id": "e854b0cfb9a19881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Doc Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design Doc Overview"
+            }
+          },
+          {
+            "id": "143c0c7fc622a0c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +59,8 @@
               "title": "Design Doc Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.500732421875
+    "width": 200
   },
   "right": {
     "id": "3b08b568378a15ed",
@@ -112,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idea.md",
+                "file": "Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Idea"
+              "title": "Outgoing links from Images"
             }
           },
           {
@@ -141,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Idea.md",
+                "file": "Images.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Idea"
+              "title": "Outline of Images"
             }
           },
           {
@@ -178,13 +217,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "487362440dbcdbb2",
+  "active": "143c0c7fc622a0c2",
   "lastOpenFiles": [
-    "Design Doc Overview.md",
     "Idea.md",
     "Images.md",
+    "Design Doc Overview.md",
     "Images/Pasted image 20250626225926.png",
+    "conflict-files-obsidian-git.md",
     "Images",
+    "Pasted image 20250626225926.png",
+    "ASD.md",
     "Welcome.md"
   ]
 }
