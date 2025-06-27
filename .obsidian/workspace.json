@@ -11,10 +11,14 @@
             "id": "821e33ec1ec2da4b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Idea"
             }
           },
           {
@@ -191,16 +195,16 @@
   "active": "821e33ec1ec2da4b",
   "lastOpenFiles": [
     "Design Doc Overview.md",
-    "Story/Base story.md",
     "Idea.md",
+    "Images.md",
+    "Images/Pasted image 20250626225926.png",
     "Levels/Level 1/L1 - Story.md",
     "Levels/Level 1/L1 - Puzzle.md",
+    "Story/Base story.md",
     "Levels/Level 1",
     "Untitled",
     "Story",
     "Levels",
-    "Images.md",
-    "Images/Pasted image 20250626225926.png",
     "Images",
     "Welcome.md"
   ]
